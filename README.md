@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋
+😄 I'm Liang Li.
+
+👯 I am working hard and pursuing my doctor degree in College of Computer, NUDT, CN.
+
+🔭 I received Master degree from NUDT, CN.
+
+🔭 I received Bachelor degree from HUST, CN.
+
+⚡ My current research interests include Multi-view clustering, Large-scale Graph Learning, and Kernel Learning.
 
 <!--
 **liliangnudt/liliangnudt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
