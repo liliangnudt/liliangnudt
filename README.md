@@ -9,6 +9,9 @@
 
 ⚡ My current research interests include Multi-view clustering, Large-scale Graph Learning, and Kernel Learning.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liliangnudt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **liliangnudt/liliangnudt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
