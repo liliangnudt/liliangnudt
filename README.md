@@ -1,7 +1,7 @@
 ### Hi 👋
 😄 I'm Liang Li.
 
-👯 I am working hard and pursuing my doctor degree in College of Computer, NUDT, CN.
+👯 I am working hard and pursuing my Doctor degree in College of Computer, NUDT, CN.
 
 🔭 I received Master degree from NUDT, CN.
 
