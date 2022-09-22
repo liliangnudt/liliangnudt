@@ -1,11 +1,11 @@
 ### Hi 👋
 😄 I'm Liang Li.
 
-👯 I am working hard and pursuing my Doctor degree in College of Computer, NUDT, CN.
+🌱 I am working hard and pursuing my Doctor degree in College of Computer, NUDT, CN.
 
 🔭 I received Master degree from NUDT, CN.
 
-🔭 I received Bachelor degree from HUST, CN.
+👯 I received Bachelor degree from HUST, CN.
 
 ⚡ My current research interests include Multi-view clustering, Large-scale Graph Learning, and Kernel Learning.
 
