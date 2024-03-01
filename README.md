@@ -1,5 +1,5 @@
 ### Hi 👋
-😄 I'm Liang Li.
+⚡ I'm Liang Li.
 
 🌱 I am working hard and pursuing my Doctor degree in College of Computer, NUDT, CN. NOW, I am visiting A*STAR, Singapore.
 
