@@ -1,7 +1,7 @@
 ### Hi 👋
 😄 I'm Liang Li.
 
-🌱 I am working hard and pursuing my Doctor degree in College of Computer, NUDT, CN.
+🌱 I am working hard and pursuing my Doctor degree in College of Computer, NUDT, CN. NOW, I am visiting A*STAR as an Intern.
 
 🔭 I received Master degree from NUDT, CN.
 
