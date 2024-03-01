@@ -7,7 +7,7 @@
 
 👯 I received Bachelor degree from HUST, CN.
 
-⚡ My current research interests include Multi-view clustering, Large-scale Graph Learning, and Kernel Learning.
+⚡ My current research interests include Multi-view Learning and Bioinformatics.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liliangnudt)](https://github.com/anuraghazra/github-readme-stats)
 
